@@ -1,0 +1,14 @@
+DOM = Docmunt Object Model
+
+A linguagem de java scrpt pode virar um server-side, interagindo com o banco, php, pyton, mais ele vai virar um (Node.js).
+
+http://jsbin.com/?html,output (site para executar e testar js no browser)
+
+como pesquisar no stackoverFlow
+site w3Scrools
+css-tricks.com
+
+Falando sobre o metodo Math.random() no java script
+   * este metodo ele retorna um valor de ponto fluante entre 0 (inclusivo) e 1(exclusivo). e este valor é de natureza pseudo aleatoria.
+
+para converter para numero inteiro usamos a função Meth.floor().
